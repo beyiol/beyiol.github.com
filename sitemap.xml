@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://beyiol.github.com/beyiol.html</loc>
+        <lastmod>2012-08-25T15:14:24+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://beyiol.github.com/hi-octopress.html</loc>
+        <lastmod>2012-08-25T15:41:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://beyiol.github.com/about/</loc>
+        <lastmod>2012-08-25T16:14:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://beyiol.github.com/blog/archives/</loc>
+        <lastmod>2012-08-25T15:41:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://beyiol.github.com/</loc>
+        <lastmod>2012-08-25T15:41:09+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://beyiol.github.com/rss.xml</loc>
+        <lastmod>2012-08-24T13:33:02+08:00</lastmod>
+    </url>
+</urlset>
